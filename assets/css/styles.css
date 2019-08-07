@@ -1,0 +1,158 @@
+body {
+  font-family: Arial Helvetica san-serif;
+}
+
+#promo {
+  text-align: center;
+  padding: 40px;
+  background: url(../../assets/img/IMG_1208_blurred.png) no-repeat;
+  background-size: cover;
+  margin-top: 10px;
+}
+
+@media (min-width: 991px) {
+  #promo {
+    padding: 20px;
+  }
+}
+
+#promo .jumbotron {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgba(255,255,255,0.75);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+@media (min-width: 991px) {
+  #promo jumbotron {
+    padding: 20px;
+  }
+}
+
+.dark-section {
+  background-color: #ffffff;
+}
+
+.site-section {
+  text-align: center;
+  padding-bottom: 70px;
+}
+
+.site-section h1 {
+  font-weight: normal;
+  margin-bottom: 30px;
+  margin-top: 60px;
+  color: rgb(66,0,255);
+  font-family: 'Montserrat', sans-serif;
+}
+
+#welcome p {
+  max-width: 800px;
+  font-size: 30px;
+  margin: 0 auto;
+  color: #ffc61e;
+  font-family: 'Roboto', sans-serif;
+}
+
+#why .item i {
+  font-size: 42px;
+  color: rgb(115,99,163);
+}
+
+#why .item h2 {
+  font-weight: normal;
+  margin-top: 13px;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+#why .item {
+  padding-top: 36px;
+}
+
+#why .item p {
+  color: #374770;
+}
+
+#logo {
+  max-height: 42px;
+  margin-right: 10px;
+  margin-top: -3px;
+  display: inline-block;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color: rgba(0,0,0,.9);
+  background-color: rgb(255,255,255);
+  border-color: transparent;
+  font-family: 'Bree Serif', serif;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  padding-top: 30px;
+}
+
+.card {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px rgba(0,0,0,.125);
+  border-radius: .25rem;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color: rgba(0,0,0,.9);
+  background-color: rgb(0,123,255);
+  font-family: 'Bree Serif', serif;
+}
+
+.navbar {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: .9rem 1rem;
+  font-family: 'Bree Serif', serif;
+}
+
+nav strong {
+  font-family: 'Lobster',cursive;
+  color: #007bff;
+}
+
+.nav {
+  display: -ms-flexbox;
+  display: inline-flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.nav-link {
+  display: inline-flex;
+  padding: .15rem 2rem;
+}
+
+.nav-item {
+  padding-left: .15rem;
+  display: inline-flex;
+  align-content: center;
+  align-items: center;
+}
+
