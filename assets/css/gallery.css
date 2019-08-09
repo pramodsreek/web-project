@@ -1,0 +1,15 @@
+#titlesec p {
+    max-width: 800px;
+    font-size: 30px;
+    margin: 0 auto;
+    color: #ffc61e;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  #thumbnailsec p {
+    max-width: 800px;
+    font-size: 30px;
+    margin: 0 auto;
+    color: #ffc61e;
+    font-family: 'Roboto', sans-serif;
+  }  
