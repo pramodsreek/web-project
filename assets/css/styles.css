@@ -156,3 +156,12 @@ nav strong {
   align-items: center;
 }
 
+a {
+  color: #374770;
+}
+
+.btn-info {
+  color: #fff;
+  background-color: #20074b;
+  border-color: #20074b;
+}
