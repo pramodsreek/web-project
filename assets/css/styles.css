@@ -31,7 +31,7 @@ body {
 }
 
 .dark-section {
-  background-color: #188d52;
+  background-color: #ffffff;
 }
 
 .site-section {
@@ -43,7 +43,7 @@ body {
   font-weight: normal;
   margin-bottom: 30px;
   margin-top: 60px;
-  color: rgb(9, 54, 16);
+  color: rgb(173, 24, 24);
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -57,7 +57,7 @@ body {
 
 #why .item i {
   font-size: 42px;
-  color: rgb(127, 204, 146);
+  color: rgb(100, 7, 15);
 }
 
 #why .item h2 {
@@ -111,7 +111,7 @@ body {
 
 .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
   color: rgba(78, 8, 8, 0.9);
-  background-color: rgb(22, 117, 57);
+  background-color: rgb(199, 49, 49);
   font-family: 'Bree Serif', serif;
 }
 
@@ -131,7 +131,7 @@ body {
 
 nav strong {
   font-family: 'Lobster',cursive;
-  color: #022911;
+  color: #580a0a;
 }
 
 .nav {
@@ -157,11 +157,11 @@ nav strong {
 }
 
 a {
-  color: #104936;
+  color: #991022;
 }
 
 .btn-info {
   color: #fff;
-  background-color: #127429;
+  background-color: #ce3d3d;
   border-color: #031609;
 }
