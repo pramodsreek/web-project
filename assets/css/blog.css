@@ -21,7 +21,7 @@ body {
 .single-blog span {
   float: right;
   font-size: 12px;
-  color: rgb(119, 11, 11);
+  color: rgb(26, 47, 168);
 }
 
 .blog-test {
@@ -32,7 +32,7 @@ body {
 .single-blog h2 {
   margin-top: 10px;
   font-size: 16px;
-  color: #971c1c;
+  color: #0d2055;
 }
 
 .single-blog h2 a {
@@ -40,7 +40,7 @@ body {
 }
 
 .read-more-btn {
-  background-image: linear-gradient(to right, #c51d1d, #d43a3a);
+  background-image: linear-gradient(to right, #291181, #9484cf);
   padding: 5px 12px 8px;
   border-radius: 20px;
   line-height: 20px;
@@ -50,7 +50,7 @@ body {
 }
 
 .read-more-btn:hover {
-  background-image: linear-gradient(to right, #c45d6a, #c42323);
+  background-image: linear-gradient(to right, #433e92, #28118a);
   text-decoration: none;
   color: #fff;
 }

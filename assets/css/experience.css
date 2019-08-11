@@ -23,7 +23,7 @@ body {
   content: '';
   position: absolute;
   width: 6px;
-  background-color: rgb(175, 43, 43);
+  background-color: #432baf;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -106,15 +106,15 @@ body {
 
 .content {
   padding: 20px 30px;
-  background-color: rgb(134, 20, 20);
+  background-color: rgb(13, 37, 170);
   position: relative;
   border-radius: 6px;
 }
 
 .btn-primary {
   color: #fff;
-  background-color: #cf4141;
-  border-color: #550b0f;
+  background-color: #3e5ea8;
+  border-color: #525cb9;
 }
 
 /*   Media queries - Responsive timeline on screens less than 600px wide   */
