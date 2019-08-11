@@ -31,7 +31,7 @@ body {
 }
 
 .dark-section {
-  background-color: #ffffff;
+  background-color: #188d52;
 }
 
 .site-section {
@@ -43,7 +43,7 @@ body {
   font-weight: normal;
   margin-bottom: 30px;
   margin-top: 60px;
-  color: rgb(66,0,255);
+  color: rgb(9, 54, 16);
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -57,7 +57,7 @@ body {
 
 #why .item i {
   font-size: 42px;
-  color: rgb(115,99,163);
+  color: rgb(127, 204, 146);
 }
 
 #why .item h2 {
@@ -72,7 +72,7 @@ body {
 }
 
 #why .item p {
-  color: #374770;
+  color: #eceff7;
 }
 
 #logo {
@@ -110,8 +110,8 @@ body {
 }
 
 .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
-  color: rgba(0,0,0,.9);
-  background-color: rgb(0,123,255);
+  color: rgba(78, 8, 8, 0.9);
+  background-color: rgb(22, 117, 57);
   font-family: 'Bree Serif', serif;
 }
 
@@ -131,7 +131,7 @@ body {
 
 nav strong {
   font-family: 'Lobster',cursive;
-  color: #007bff;
+  color: #022911;
 }
 
 .nav {
@@ -157,11 +157,11 @@ nav strong {
 }
 
 a {
-  color: #20074b;
+  color: #104936;
 }
 
 .btn-info {
   color: #fff;
-  background-color: #20074b;
-  border-color: #20074b;
+  background-color: #127429;
+  border-color: #031609;
 }
